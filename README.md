@@ -84,7 +84,7 @@ Tip: If your image filenames contain spaces, rename them to avoid issues (e.g., 
 
 ## 🌳 Decision Tree Visualization
 
-![Decision Tree](assets/decision_tree.JPG).JPG
+![Decision Tree](assets/decision%20tree.JPG).JPG
 
 ---
 
